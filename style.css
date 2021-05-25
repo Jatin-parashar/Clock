@@ -48,3 +48,10 @@ html{
     left: 49.2%;
     transform-origin: center bottom;
 }
+
+@media screen and (max-width:1080px) {
+    #clock{
+        width: 70vw;
+        height: 70vw;
+    }
+}
